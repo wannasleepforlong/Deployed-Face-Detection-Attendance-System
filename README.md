@@ -1,7 +1,7 @@
 # Face-Detection-Attendance-System-Deployed
 Face attendance system with the functions of login and taking, reading and compiling attendance deployed using streamlit.
 
-This has been made with the use of face-recognition modue.
+This has been made with the use of face-recognition moduke.
 
 Before running this, you have to make a mysql database named attendance and create a table named attendance inside it with columns 'EventDate'(type: datetime), Name(type: varchar) and Attendance(type: varchar).
 
