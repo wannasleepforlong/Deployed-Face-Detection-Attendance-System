@@ -13,4 +13,4 @@ That's all!
 Peace out (°꒳°)
 
 Output Example
-https://github.com/wannasleepforlong/Deployed-Face-Detection-Attendance-System/blob/main/Output_detected.png
+![CHEESE!](Output_detected.png)
