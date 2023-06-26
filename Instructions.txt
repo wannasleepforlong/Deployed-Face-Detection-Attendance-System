@@ -2,7 +2,7 @@ Just follow these steps and you will be fine OwO:
 
 1. Include jpg images of your faces in the folder faces. You just need one selfie for each person.
 2. Change file path in Encoding_faces.py and run it.
-3. Make a database 'attendance' and create the table 'attendance' inside it using mysql.
+3. Make a database 'attendance' and create the table 'attendance' inside it using mysql with columns EventDate(type: datetime), Name(type: varchar) and Attendance(type: varchar).
 4. Change file paths as well as mysql_connector queries(host, user and password) inside Face_Detection.py and test run it.
 5. Do the same changes in face_gui.py.
 6. Open cmd in the directory with your files and run command `streamlit run face_gui.py`
